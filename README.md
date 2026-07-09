@@ -12,7 +12,7 @@ This project demonstrates a complete data analytics workflow, starting from data
 
 ## Tools & Technologies
 
-* **Python** (Pandas, NumPy, Matplotlib, Seaborn)
+* **Python** 
 * **Jupyter Notebook**
 * **SQL** (PostgreSQL / MySQL / SQL Server)
 * **Power BI**
